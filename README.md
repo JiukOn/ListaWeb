@@ -1,4 +1,7 @@
 # ListaWeb
+
+https://jiukon.github.io/ListaWeb/
+
 1 Crie uma função anônima que receba nome e sobrenome e retorne o nome completo. Atribua essa função a uma variável. Chame essa variável passando “Fábio”, “Colombini” e mostre o resultado no console.
 
 2 Defina uma Arrow Function chamada calculaAreaRetangulo que recebe dois parâmetros, base e altura, e retorna a área do retângulo. Mostre o resultado no console.
